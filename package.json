@@ -1,0 +1,9 @@
+{
+    "name": "kesehatan-feedlot",
+    "version": "1.0.0",
+    "description": "Kesehatan Feedlot PWA — Health Division Management",
+    "scripts": {
+        "dev": "npx -y serve ."
+    },
+    "private": true
+}
